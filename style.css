@@ -1,0 +1,68 @@
+p.satu{
+  width: 300px;
+  height: 80px;
+  overflow: scroll;
+  background-color: aqua;
+
+  border-top-style: dotted;
+  border-top-color: rgb(255, 0, 0);
+  border-top-width: 5px;
+
+  border-bottom-style: dotted;
+  border-bottom-color: rgb(255, 0, 0);
+  border-bottom-width: 5px;
+
+  border-left-style: dotted;
+  border-left-color: rgb(255, 0, 0);
+  border-left-width: 5px;
+
+  border-right-style: dotted;
+  border-right-color: rgb(255, 0, 0);
+  border-right-width: 5px;
+}
+
+p.dua{
+  width: 300px;
+  height: 100px;
+  overflow: scroll;
+  background-color: aqua;
+
+  border-top-style: solid;
+  border-top-color: green;
+  border-top-width: 3px;
+
+  border-bottom-style: solid;
+  border-bottom-color: green;
+  border-bottom-width: 3px;
+
+  border-left-style: solid;
+  border-left-color: green;
+  border-left-width: 3px;
+
+  border-right-style: solid;
+  border-right-color: green;
+  border-right-width: 3px;
+}
+
+p.tiga{
+  width: 300px;
+  height: 100px;
+  overflow: scroll;
+  background-color: aqua;
+
+  border-top-style: dashed;
+  border-top-color: blue;
+  border-top-width: 10px;
+
+  border-bottom-style: dashed;
+  border-bottom-color: blue;
+  border-bottom-width: 10px;
+
+  border-left-style: dashed;
+  border-left-color: blue;
+  border-left-width: 10px;
+
+  border-right-style: dashed;
+  border-right-color: blue;
+  border-right-width: 10px;
+}
